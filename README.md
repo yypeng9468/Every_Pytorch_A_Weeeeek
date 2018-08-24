@@ -10,4 +10,4 @@
 
 def success(努力，每一天=True):
 
-  return True
+    return True
