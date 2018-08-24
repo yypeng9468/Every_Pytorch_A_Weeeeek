@@ -8,6 +8,16 @@
 
 ”“”
 
-def success(努力，每一天=True):
+def success(effort, everyday=True):
 
+    """
+    
+    :type effort:emmmmmmmm
+    
+    :type everyday:boolean
+    
+    :return boolean and definitely True
+    
+    """
+    
     return True
